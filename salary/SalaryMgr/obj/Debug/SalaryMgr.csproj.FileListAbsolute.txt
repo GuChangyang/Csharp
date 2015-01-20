@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\SalaryMgr\SalaryMgr\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SalaryMgr\SalaryMgr\bin\Debug\SalaryMgr.exe
+C:\Documents and Settings\Administrator\桌面\SalaryMgr\SalaryMgr\bin\Debug\SalaryMgr.pdb
+C:\Documents and Settings\Administrator\桌面\SalaryMgr\SalaryMgr\obj\Debug\SalaryMgr.exe
+C:\Documents and Settings\Administrator\桌面\SalaryMgr\SalaryMgr\obj\Debug\SalaryMgr.pdb
+F:\asp.net就业班\BF-TECH A模块\A1_01.NET平台和Csharp编程(50讲)\A1_01_03.Csharp中的OOP概念(3讲)\上机部分\上机作业答案\SalaryMgr\obj\Debug\SalaryMgr.exe
+F:\asp.net就业班\BF-TECH A模块\A1_01.NET平台和Csharp编程(50讲)\A1_01_03.Csharp中的OOP概念(3讲)\上机部分\上机作业答案\SalaryMgr\obj\Debug\SalaryMgr.pdb
+F:\asp.net就业班\BF-TECH A模块\A1_01.NET平台和Csharp编程(50讲)\A1_01_03.Csharp中的OOP概念(3讲)\上机部分\上机作业答案\SalaryMgr\bin\Debug\SalaryMgr.exe
+F:\asp.net就业班\BF-TECH A模块\A1_01.NET平台和Csharp编程(50讲)\A1_01_03.Csharp中的OOP概念(3讲)\上机部分\上机作业答案\SalaryMgr\bin\Debug\SalaryMgr.pdb
+F:\asp.net就业班\BF-TECH A模块\A1_01.NET平台和Csharp编程(50讲)\A1_01_03.Csharp中的OOP概念(3讲)\上机部分\上机作业答案\SalaryMgr\obj\Debug\SalaryMgr.csprojResolveAssemblyReference.cache
