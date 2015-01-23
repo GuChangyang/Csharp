@@ -1,0 +1,12 @@
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.exe
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.csprojResolveAssemblyReference.cache
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.exe
+c:\users\changyang\documents\visual studio 2013\Projects\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.pdb
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.exe.config
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.exe
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.pdb
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.exe
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\bin\Debug\HW1.5.4.pdb
+C:\Users\Changyang\Desktop\北风作业\第一次作业\HW1.5.4\HW1.5.4\obj\Debug\HW1.5.4.csprojResolveAssemblyReference.cache

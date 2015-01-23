@@ -1,0 +1,9 @@
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\bin\Debug\Maiji.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\bin\Debug\Maiji.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\bin\Debug\Maiji.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\obj\Debug\Maiji.csprojResolveAssemblyReference.cache
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\obj\Debug\Maiji.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Maiji\Maiji\obj\Debug\Maiji.pdb
+C:\Users\Changyang\Desktop\北风作业\作业_顾常杨_前三章课程作业\Maiji\Maiji\bin\Debug\Maiji.exe.config
+C:\Users\Changyang\Desktop\北风作业\作业_顾常杨_前三章课程作业\Maiji\Maiji\obj\Debug\Maiji.exe
+C:\Users\Changyang\Desktop\北风作业\作业_顾常杨_前三章课程作业\Maiji\Maiji\obj\Debug\Maiji.pdb

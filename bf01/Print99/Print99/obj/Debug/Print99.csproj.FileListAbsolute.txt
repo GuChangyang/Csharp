@@ -1,0 +1,5 @@
+c:\users\changyang\documents\visual studio 2013\Projects\Print99\Print99\bin\Debug\Print99.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\Print99\Print99\bin\Debug\Print99.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Print99\Print99\bin\Debug\Print99.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\Print99\Print99\obj\Debug\Print99.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Print99\Print99\obj\Debug\Print99.pdb

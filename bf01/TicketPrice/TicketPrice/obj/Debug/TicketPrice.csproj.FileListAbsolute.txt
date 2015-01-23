@@ -1,0 +1,6 @@
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\bin\Debug\TicketPrice.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\bin\Debug\TicketPrice.exe
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\bin\Debug\TicketPrice.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\obj\Debug\TicketPrice.csprojResolveAssemblyReference.cache
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\obj\Debug\TicketPrice.exe
+c:\users\changyang\documents\visual studio 2013\Projects\TicketPrice\TicketPrice\obj\Debug\TicketPrice.pdb
