@@ -1,0 +1,8 @@
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\bin\Debug\Picture.exe.config
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\bin\Debug\Picture.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\bin\Debug\Picture.pdb
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\obj\Debug\Picture.Form1.resources
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\obj\Debug\Picture.Properties.Resources.resources
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\obj\Debug\Picture.csproj.GenerateResource.Cache
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\obj\Debug\Picture.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Picture\obj\Debug\Picture.pdb

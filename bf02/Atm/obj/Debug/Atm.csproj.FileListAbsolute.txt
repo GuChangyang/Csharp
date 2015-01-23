@@ -1,0 +1,6 @@
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\bin\Debug\Atm.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\bin\Debug\Atm.exe
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\bin\Debug\Atm.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\obj\Debug\Atm.exe
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\obj\Debug\Atm.pdb
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Atm\obj\Debug\Atm.csprojResolveAssemblyReference.cache

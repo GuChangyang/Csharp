@@ -1,0 +1,9 @@
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\bin\Debug\FormColorChange.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\bin\Debug\FormColorChange.exe
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\bin\Debug\FormColorChange.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.csprojResolveAssemblyReference.cache
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.Form1.resources
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.Properties.Resources.resources
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.csproj.GenerateResource.Cache
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.exe
+c:\users\changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\FormColorChange\obj\Debug\FormColorChange.pdb

@@ -1,0 +1,9 @@
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\bin\Debug\Close.exe.config
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\bin\Debug\Close.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\bin\Debug\Close.pdb
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.csprojResolveAssemblyReference.cache
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.Form1.resources
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.Properties.Resources.resources
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.csproj.GenerateResource.Cache
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Close\obj\Debug\Close.pdb

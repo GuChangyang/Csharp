@@ -1,0 +1,6 @@
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\bin\Debug\Josephus.exe.config
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\bin\Debug\Josephus.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\bin\Debug\Josephus.pdb
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\obj\Debug\Josephus.exe
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\obj\Debug\Josephus.pdb
+C:\Users\Changyang\documents\visual studio 2013\Projects\MyshoppingPrintMem\Josephus\obj\Debug\Josephus.csprojResolveAssemblyReference.cache
