@@ -1,0 +1,9 @@
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\bin\Debug\Picture.exe.config
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\bin\Debug\Picture.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\bin\Debug\Picture.pdb
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.csprojResolveAssemblyReference.cache
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.frm1.resources
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.Properties.Resources.resources
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.csproj.GenerateResource.Cache
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.exe
+c:\users\changyang\documents\visual studio 2013\Projects\Picture\Picture\obj\Debug\Picture.pdb
